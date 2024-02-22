@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+tensorflow
+matplotlib
+future
+collection
+ipython
+mpl-tools
+
+#-e .
