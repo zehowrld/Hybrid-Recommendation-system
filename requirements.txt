@@ -7,5 +7,6 @@ future
 collection
 ipython
 mpl-tools
+scikit-learn
 
 #-e .
